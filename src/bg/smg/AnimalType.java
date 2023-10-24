@@ -8,5 +8,7 @@ public enum AnimalType {
     DUCK,
     HUMMING_BIRD,
     ZEBRA,
-    DOLPHIN
+    DOLPHIN,
+    TIGER
+
 }
